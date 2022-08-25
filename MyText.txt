@@ -1,1 +1,2 @@
 hello this is try my first txt file on github
+and now i have to make some more changes
